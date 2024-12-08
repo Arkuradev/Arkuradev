@@ -13,7 +13,7 @@ and becoming a programmer is going to allow me to explore and use my creativity 
 
 ## 🎖️ Projects
 
-### 📂 Featured Project
+### 📂 Featured Projects
 
 - [Blog Project - Project Exam 1](https://arkuradev.github.io/project-exam-1-stein-a/)
 - [DSCM - Semester Project 1](https://arkuradev.github.io/Semester-Project-1/)
