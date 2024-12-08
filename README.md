@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi there 👋, I'm Stein Arild.
 
+I am currently studying front development at Noroff Vocational School - Online full time study.
+Trying to balance my study time with work and family life.
+
+## ♨️ Skills & Tools
+
+- **Languages:** JavaScript, HTML, CSS.
+- **Frameworks/Libraries:** Soon:tm:
 <!--
 **Arkuradev/Arkuradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
