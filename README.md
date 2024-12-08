@@ -24,6 +24,12 @@ and becoming a programmer is going to allow me to explore and use my creativity 
 ![Stein's Github Stats](https://github-readme-stats.vercel.app/api?username=Arkuradev&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arkuradev&layout=compact)
 
+## 📫 Contact Me
+
+- [LinkedIn](https://www.linkedin.com/in/stein-arild-gansmoe-924879106/)
+- [Portfolio](https://arkuradev.github.io/portfolio1/)
+- Email: steina89@hotmail.com
+
 <!--
 **Arkuradev/Arkuradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
