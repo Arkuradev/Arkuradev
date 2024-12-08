@@ -6,7 +6,17 @@ Trying to balance my study time with work and family life.
 ## ♨️ Skills & Tools
 
 - **Languages:** JavaScript, HTML, CSS.
-- **Frameworks/Libraries:** Soon:tm:
+- **Frameworks/Libraries:** Soon™️
+- **Tools:** Git, VS Code, Figma
+
+## 🎖️ Projects
+
+### 📂 Featured Project
+
+- [Blog Project - Project Exam 1](https://arkuradev.github.io/project-exam-1-stein-a/)
+- [DSCM - Semester Project 1](https://arkuradev.github.io/Semester-Project-1/)
+- [HTML/CSS - GameHub](https://arkuradev.github.io/GameHub---HTML-CSS-CA/)
+
 <!--
 **Arkuradev/Arkuradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
